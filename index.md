@@ -1,5 +1,3 @@
 Hello world, you strange, weird place.
 
-boo
-
-sadfasdf
+This is a web site, I guess
